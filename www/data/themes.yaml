@@ -39,9 +39,9 @@
 - title: "WaterMargin"
   category: "Products"
   # url: "http://watermargin.dapp-learning.com/"
-  url: "http://81.69.8.95/WaterMargin"
+  url: "http://81.69.8.95/"
   # preview: "http://watermargin.dapp-learning.com/"
-  preview: "http://81.69.8.95/WaterMargin"
+  preview: "http://81.69.8.95/"
   description: "The legend of 105 men and 3 women."
   image: "./watermargin.png"
   shapes:
