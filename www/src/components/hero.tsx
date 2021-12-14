@@ -45,7 +45,7 @@ const Hero = () => {
             <Box sx={{ maxWidth: `490px` }}>
               <Themed.h1>Dapp-Learning Free & Open Source</Themed.h1>
               <Themed.p sx={{ color: `dark`, mt: 3, mb: 4 }}>
-                Definitive Guide for Dapp{' '}
+                Definitive Guide for {' '}
                 <span sx={{ fontWeight: `bold` }}>
                   Dapp
                 </span>{" "}
