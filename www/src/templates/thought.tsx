@@ -122,7 +122,7 @@ const ThoughtTemplate: React.FC<PageProps<ThoughtTemplateProps>> = ({ data: { th
       >
         <div>Like what you're reading? Visit our Github!</div>
         <a
-          href="https://github.com/rebase-network/Dapp-Learning"
+          href="https://github.com/Dapp-Learning-DAO/Dapp-Learning"
           rel="noopener noreferrer"
           target="_blank"
           sx={{

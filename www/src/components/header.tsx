@@ -10,7 +10,7 @@ const navs = [
   {
     title: "Products",
     subs: [
-      { txt: "Dapp-Learning", url: "https://github.com/rebase-network/Dapp-Learning" },
+      { txt: "Dapp-Learning", url: "https://github.com/Dapp-Learning-DAO/Dapp-Learning" },
       { txt: "Encryption courses Translation", url: "https://mirror.xyz/0x0C3c4bB7554Ea7E891B604715F84C5B55EFc017d" },
       { txt: "WaterMargin", url: "http://watermargin.dapp-learning.com" },
     ],
@@ -56,7 +56,7 @@ const Header = () => {
                 color: `text`,
                 "&:hover,&:focus": { color: `primary`, boxShadow: `none` },
               }}
-              href="https://github.com/rebase-network/Dapp-Learning"
+              href="https://github.com/Dapp-Learning-DAO/Dapp-Learning"
             >
               <Logo sx={{ width: 12, height: 12 }} />
             </a>
@@ -88,7 +88,7 @@ const Header = () => {
           </Flex>
           <Flex sx={{ mt: [4, 0], alignItems: `center` }}>
             <a
-              href="https://github.com/rebase-network/Dapp-Learning"
+              href="https://github.com/Dapp-Learning-DAO/Dapp-Learning"
               sx={{ variant: `buttons.secondary` }}
             >
               GitHub

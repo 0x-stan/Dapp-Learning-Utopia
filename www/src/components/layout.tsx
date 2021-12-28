@@ -87,7 +87,7 @@ const Layout = ({ children, className = ``, thought = false }: LayoutProps) => {
         </Themed.a>
         .<br />
         Our tutorial is open source on{` `}
-        <Themed.a href="https://github.com/rebase-network/Dapp-Learning">GitHub</Themed.a>.
+        <Themed.a href="https://github.com/Dapp-Learning-DAO/Dapp-Learning">GitHub</Themed.a>.
       </Box>
     </>
   )

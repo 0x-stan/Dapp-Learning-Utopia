@@ -70,7 +70,7 @@ const AboutUs = () => {
             promoted to a pull request reviewer, participating in making
             decisions about project future directions. For more project
             management rules, please see{" "}
-            <Themed.a href="https://github.com/rebase-network/Dapp-Learning/blob/main/docs/dao.md">
+            <Themed.a href="https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/docs/dao.md">
               how new members participate and project governance rules
             </Themed.a>
             . Welcome to join us if you share the same value.

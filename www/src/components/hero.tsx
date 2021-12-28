@@ -55,7 +55,7 @@ const Hero = () => {
             </Box>
             <Box>
               <a
-                href="https://github.com/rebase-network/Dapp-Learning"
+                href="https://github.com/Dapp-Learning-DAO/Dapp-Learning"
                 rel="noopener noreferrer"
                 target="_blank"
                 sx={{

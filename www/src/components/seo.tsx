@@ -87,7 +87,7 @@ const SEO = ({
   }
 
   const orgaCreator = (input: string) => ({
-    "@context": `https://github.com/rebase-network/Dapp-Learning`,
+    "@context": `https://github.com/Dapp-Learning-DAO/Dapp-Learning`,
     "@id": `${siteUrl}/#${input}`,
     "@type": `Organization`,
     address: {
@@ -118,7 +118,7 @@ const SEO = ({
     },
     sameAs: [
       `https://dapp-learning.com`,
-      `https://github.com/rebase-network/Dapp-Learning`,
+      `https://github.com/Dapp-Learning-DAO/Dapp-Learning`,
       `https://github.com/Dapp-Learning-DAO/Dapp-Learning-Utopia`,
       `https://github.com/Dapp-Learning-DAO/Dapp-Learning-WaterMargin`,
       `https://github.com/Dapp-Learning-DAO/Dapp-Learning-Arsenal`,
@@ -127,7 +127,7 @@ const SEO = ({
   })
 
   const schemaNewsletter = {
-    "@context": `https://github.com/rebase-network/Dapp-Learning`,
+    "@context": `https://github.com/Dapp-Learning-DAO/Dapp-Learning`,
     "@type": `Article`,
     articleSection: `Newsletter`,
     author: {
@@ -163,7 +163,7 @@ const SEO = ({
   }
 
   const breadcrumbs = {
-    "@context": `https://github.com/rebase-network/Dapp-Learning`,
+    "@context": `https://github.com/Dapp-Learning-DAO/Dapp-Learning`,
     "@type": `BreadcrumbList`,
     description: `Breadcrumbs list`,
     itemListElement: [
@@ -208,7 +208,7 @@ const SEO = ({
       <meta name="twitter:creator" content={author} />
       <meta name="twitter:label1" value="Web3" />
       <meta name="twitter:label2" value="Project's Homepage" />
-      <meta name="twitter:data1" value="https://github.com/rebase-network/Dapp-Learning" />
+      <meta name="twitter:data1" value="https://github.com/Dapp-Learning-DAO/Dapp-Learning" />
       <meta name="twitter:data2" value="https://www.dapp-learning.com" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
